@@ -1,15 +1,15 @@
 # School_District_Analysis
 
-For this part of the Challenge, write a report that summarizes your updated analysis and compares it with the results from the module.
+## Overview
 
-The analysis should contain the following:
+We are helping Maria - a data scientist-analyze data on student funding and student standardized test score. We will showcase the data in such a way that the school district administration can make decisions on budgets and priorities.
 
-Overview of the school district analysis: Explain the purpose of this analysis.
+## Results
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+At a district level, there is not a great deal of difference in the numbers because the number of 9th graders from Thomas High School is insighnificant compared to the total number of students in the district. The below images show the numbers from the two scenarios.
 
-How is the district summary affected?
-How is the school summary affected?
+There is a significant difference in the math and reading passing at a school summary level when we look at Thomas High School in isolation. None of the other 
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
