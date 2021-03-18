@@ -2,7 +2,7 @@
 
 ## Overview
 
-We are helping Maria - a data scientist-analyze data on student funding and student standardized test score. We will showcase the data in such a way that the school district administration can make decisions on budgets and priorities.
+We are helping Maria -a data scientist-analyze data on student funding and student standardized test score. We will showcase the data in such a way that the school district administration can make decisions on budgets and priorities.
 
 ## Results
 
